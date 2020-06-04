@@ -15,7 +15,7 @@ $('document').ready(function(){
 			$('#b66').animate({top:240, left: vw+150},500);
 			$('#b77').animate({top:240, left: vw+250},500);
 			$('#b88').animate({top:240, left: vw+150},500);
-			$('#b88').animate({top:240, left: vw+250},500);
+			$('#b99').animate({top:240, left: vw+250},500);
 		});
 
 	$('#turn_on').click(function(){
