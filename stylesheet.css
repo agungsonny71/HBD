@@ -1076,12 +1076,13 @@ audio {
 }
 
 .balloons {
-	position: fixed;
+	/* position: fixed; */
 	bottom: -200px;
-	opacity: 0.6;
+	/*opacity: 0.6; */
 	z-index: 99;
 	width: 200px;
 	height: 183px;
+	background-color:coral;
 	background-repeat: no-repeat no-repeat;
 	background-size: 200px 183px;
 }
